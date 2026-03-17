@@ -1,0 +1,1 @@
+{"fixed": true, "nodes": [{"id": "1", "name": "Start", "connections": ["2"]}, {"id": "2", "name": "Process", "connections": ["3"]}, {"id": "3", "name": "End", "connections": []}], "functions": {"processData": "function(data) { return processedData; }"}, "expressions": {"validExpression": "x > 0 && y < 10"}}
